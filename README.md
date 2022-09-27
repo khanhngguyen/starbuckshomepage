@@ -1,2 +1,2 @@
 # starbuckshomepage
-recreating Starbucks homepage
+practice basics of HTML & CSS by recrearing Starbucks homepage
