@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: "SoDo Sans SemiBold", Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: "SoDo Sans SemiBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 header {
@@ -179,7 +179,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     margin: auto;
-    padding: 24px;
+    padding: 24px 40px;
 }
 
 .end-section {
@@ -187,6 +187,7 @@ header {
     font-size: 19px;
     color: rgba(0, 0, 0, .87);
     width: 200px;
+    margin: 0px 12px;
 }
 
 ul {
@@ -199,6 +200,7 @@ ul {
     font-size: 16px;
     margin: 0px 0px 8px;
     padding: 8px 0px;
+    white-space: normal;
 }
 
 li .line-break {
