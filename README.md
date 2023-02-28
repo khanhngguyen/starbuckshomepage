@@ -13,7 +13,7 @@ Practice basics of HTML & CSS by recreating Starbucks homepage
 - Download and get started with VS Code
 - Create a static webpage using HTML & CSS
 - Use basics of HTML
-- Get familiar with basics of CSS, e.g. import & use fonts, use flexbox for layout, sizing images inside `<img>`tag
+- Get familiar with basics of CSS, e.g. import & use fonts, use flexbox for layout, sizing images inside `<img>`tag, using box shadows, etc.
 
 ## Known limitations
 - Divide sections into semantic HTML with more readable naming, e.g. `<nav>`, `<section>`, `<main>`, `<footer>`, 
